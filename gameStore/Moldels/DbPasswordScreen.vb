@@ -1,6 +1,7 @@
 ﻿Imports gameStore.SqlConnection
+Imports MySqlConnector
 Module DbPasswordScreen
-    Sub ShowScreen()
+    Sub ShowScreen(ByRef conn As MySqlConnection)
 
         Dim password As String
         Do
@@ -9,7 +10,7 @@ Module DbPasswordScreen
             Console.Write("Insert the DataBase password:")
             password = Console.ReadLine()
 
-        Loop While SqlConnection.Connect(password) = 1
+        Loop While SqlConnection.Connect(password, conn) = 1
     End Sub
 
     Sub Title()

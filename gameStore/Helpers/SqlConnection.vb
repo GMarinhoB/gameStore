@@ -3,14 +3,16 @@ Imports MySqlConnector
 
 Module SqlConnection
 
-    Function Connect(password As String) As Integer
+    Function Connect(password As String, ByRef conn As MySqlConnection) As Integer
+
         Dim connStr As String = $"server=localhost;user=root;password={password};database=gamestore;"
-        Dim conn As New MySqlConnection(connStr)
+        conn = New MySqlConnection(connStr)
 
         Try
 
             conn.Open()
             Console.WriteLine("Sucessfuly connected!")
+            Thread.Sleep(1500)
             Return 0
 
         Catch ex As Exception
@@ -27,11 +29,13 @@ Module SqlConnection
 
             End If
             Return 1
-
-        Finally
-            conn.Close()
         End Try
 
     End Function
+
+    Sub CloseConnection(conn As MySqlConnection)
+        conn.Close()
+        Console.WriteLine("Sucessfuly disconnected!")
+    End Sub
 
 End Module
