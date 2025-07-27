@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\moldels\\loginscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:moldels\\loginscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\moldels\\dbpasswordscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:moldels\\dbpasswordscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\helpers\\sqlconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:helpers\\sqlconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\moldels\\dbpasswordscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:moldels\\dbpasswordscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "LoginScreen.vb",
+              "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\LoginScreen.vb",
+              "RelativeDocumentMoniker": "Moldels\\LoginScreen.vb",
+              "ToolTip": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\LoginScreen.vb",
+              "RelativeToolTip": "Moldels\\LoginScreen.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-27T20:22:26.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DbPasswordScreen.vb",
               "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\DbPasswordScreen.vb",
               "RelativeDocumentMoniker": "Moldels\\DbPasswordScreen.vb",
               "ToolTip": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\DbPasswordScreen.vb",
               "RelativeToolTip": "Moldels\\DbPasswordScreen.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-07-27T19:05:14.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SqlConnection.vb",
-              "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Helpers\\SqlConnection.vb",
-              "RelativeDocumentMoniker": "Helpers\\SqlConnection.vb",
-              "ToolTip": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Helpers\\SqlConnection.vb",
-              "RelativeToolTip": "Helpers\\SqlConnection.vb",
-              "ViewState": "AgIAAAMAAAAAAAAAAAA2wAcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-27T18:05:35.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.vb",
               "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Program.vb",
               "RelativeDocumentMoniker": "Program.vb",
               "ToolTip": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Program.vb",
               "RelativeToolTip": "Program.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-07-27T17:55:34.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlConnection.vb",
+              "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Helpers\\SqlConnection.vb",
+              "RelativeDocumentMoniker": "Helpers\\SqlConnection.vb",
+              "ToolTip": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Helpers\\SqlConnection.vb",
+              "RelativeToolTip": "Helpers\\SqlConnection.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-27T20:39:03.601Z",
               "EditorCaption": ""
             }
           ]

@@ -33,9 +33,4 @@ Module SqlConnection
 
     End Function
 
-    Sub CloseConnection(conn As MySqlConnection)
-        conn.Close()
-        Console.WriteLine("Sucessfuly disconnected!")
-    End Sub
-
 End Module

@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("gameStore"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b7668141bcba8aba8fefbfc0b67971188f94fe4"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5962d567ffe66bcb3fe1fe45d43c2f7867bbc0ef"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("gameStore"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("gameStore"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

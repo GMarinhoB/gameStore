@@ -1,0 +1,41 @@
+﻿Imports System.Threading
+
+Module LoginScreen
+    Sub ShowScreen()
+
+        Dim key As ConsoleKeyInfo
+
+        Do
+            Console.Clear()
+            Title()
+            Console.WriteLine("Press [R] to register a user.")
+            Console.WriteLine("Press [L] to login.")
+            Console.WriteLine("Press [E] to exit the System.")
+            key = Console.ReadKey()
+            Thread.Sleep(1000)
+        Loop While Char.ToUpper(key.KeyChar()) <> "R"c AndAlso Char.ToUpper(key.KeyChar()) <> "L"c AndAlso Char.ToUpper(key.KeyChar()) <> "E"c
+
+        Select Case key.Key
+            Case ConsoleKey.L
+
+            Case ConsoleKey.R
+
+            Case ConsoleKey.E
+                Program.EndProgram()
+
+        End Select
+    End Sub
+
+    Sub Title()
+        Console.WriteLine("=================================")
+        Console.WriteLine("Welcome to the game store system!")
+        Console.WriteLine("=================================")
+        Console.WriteLine($"{vbCrLf}")
+    End Sub
+
+    Sub LoginScreen()
+        Title()
+
+    End Sub
+
+End Module
