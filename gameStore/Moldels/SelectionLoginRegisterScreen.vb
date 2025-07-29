@@ -1,12 +1,13 @@
 ﻿Imports System.Threading
 Imports gameStore.Title
+Imports gameStore.LoginScreen
+Imports gameStore.RegisterScreen
 Module SelectionLoginRegisterScreen
     Sub ShowScreen()
 
         Dim key As ConsoleKeyInfo
 
         Do
-            Console.Clear()
             Title.ShowTitle("Welcome to the game store system!")
             Console.WriteLine("Press [R] to register a user.")
             Console.WriteLine("Press [L] to login.")
@@ -17,18 +18,13 @@ Module SelectionLoginRegisterScreen
 
         Select Case key.Key
             Case ConsoleKey.L
-
+                LoginScreen.ShowScreen()
             Case ConsoleKey.R
-
+                RegisterScreen.ShowScreen()
             Case ConsoleKey.E
                 Program.EndProgram()
 
         End Select
-    End Sub
-
-    Sub LoginScreen()
-        Title.ShowTitle("")
-
     End Sub
 
 End Module

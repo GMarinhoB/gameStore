@@ -74,3 +74,12 @@ Created tables so far: All availables at the folder "DB"
     Reinforce database fundamentals (PKs, constraints, structure planning).
 
 All of this was done with guidance from ChatGPT, proving how effective AI can be for fast learning and prototyping.
+
+## 📌 Changelog
+
+### 2025-07-29
+- Added `LoginUser` MySQL function for user and admin authentication.
+- Set `UserId` as `AUTO_INCREMENT` in `User` table.
+- Updated all user-related tables to enforce `NOT NULL` constraints.
+- Created VB module for setting screen titles.
+- Started building login and registration forms.
