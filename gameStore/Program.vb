@@ -11,9 +11,8 @@ Module Program
 
 
         DbPasswordScreen.ShowScreen(conn)
-        LoginScreen.ShowScreen()
+        SelectionLoginRegisterScreen.ShowScreen()
         EndProgram()
-        'SqlConnection.CloseConnection(conn)
 
     End Sub
 

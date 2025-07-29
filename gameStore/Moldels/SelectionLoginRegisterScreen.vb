@@ -1,13 +1,13 @@
 ﻿Imports System.Threading
-
-Module LoginScreen
+Imports gameStore.Title
+Module SelectionLoginRegisterScreen
     Sub ShowScreen()
 
         Dim key As ConsoleKeyInfo
 
         Do
             Console.Clear()
-            Title()
+            Title.ShowTitle("Welcome to the game store system!")
             Console.WriteLine("Press [R] to register a user.")
             Console.WriteLine("Press [L] to login.")
             Console.WriteLine("Press [E] to exit the System.")
@@ -26,15 +26,8 @@ Module LoginScreen
         End Select
     End Sub
 
-    Sub Title()
-        Console.WriteLine("=================================")
-        Console.WriteLine("Welcome to the game store system!")
-        Console.WriteLine("=================================")
-        Console.WriteLine($"{vbCrLf}")
-    End Sub
-
     Sub LoginScreen()
-        Title()
+        Title.ShowTitle("")
 
     End Sub
 
