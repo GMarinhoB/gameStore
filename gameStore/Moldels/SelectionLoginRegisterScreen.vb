@@ -2,8 +2,9 @@
 Imports gameStore.Title
 Imports gameStore.LoginScreen
 Imports gameStore.RegisterScreen
+Imports MySqlConnector
 Module SelectionLoginRegisterScreen
-    Sub ShowScreen()
+    Sub ShowScreen(conn As MySqlConnection)
 
         Dim key As ConsoleKeyInfo
 
@@ -18,7 +19,7 @@ Module SelectionLoginRegisterScreen
 
         Select Case key.Key
             Case ConsoleKey.L
-                LoginScreen.ShowScreen()
+                LoginScreen.ShowScreen(conn)
             Case ConsoleKey.R
                 RegisterScreen.ShowScreen()
             Case ConsoleKey.E

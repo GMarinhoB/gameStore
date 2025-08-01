@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\moldels\\loginscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:moldels\\loginscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\moldels\\dbpasswordscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:moldels\\dbpasswordscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\moldels\\registerscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:moldels\\registerscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -11,16 +19,12 @@
       "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:moldels\\title.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\moldels\\loginscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:moldels\\loginscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\moldels\\selectionloginregisterscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:moldels\\selectionloginregisterscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\moldels\\dbpasswordscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:moldels\\dbpasswordscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\helpers\\dologin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|solutionrelative:helpers\\dologin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7393771-807A-4D2E-B6FD-6F6ED28BCD79}|gameStore.vbproj|c:\\users\\guimb\\documents\\workspace\\matera\\gamestoreproject\\gamestore\\gamestore\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -38,63 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RegisterScreen.vb",
               "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\RegisterScreen.vb",
               "RelativeDocumentMoniker": "Moldels\\RegisterScreen.vb",
               "ToolTip": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\RegisterScreen.vb",
               "RelativeToolTip": "Moldels\\RegisterScreen.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-07-29T00:19:31.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Title.vb",
               "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\Title.vb",
               "RelativeDocumentMoniker": "Moldels\\Title.vb",
               "ToolTip": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\Title.vb",
               "RelativeToolTip": "Moldels\\Title.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-07-29T00:12:45.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginScreen.vb",
-              "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\LoginScreen.vb",
-              "RelativeDocumentMoniker": "Moldels\\LoginScreen.vb",
-              "ToolTip": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\LoginScreen.vb",
-              "RelativeToolTip": "Moldels\\LoginScreen.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-29T00:09:28.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SelectionLoginRegisterScreen.vb",
               "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\SelectionLoginRegisterScreen.vb",
               "RelativeDocumentMoniker": "Moldels\\SelectionLoginRegisterScreen.vb",
               "ToolTip": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\SelectionLoginRegisterScreen.vb",
               "RelativeToolTip": "Moldels\\SelectionLoginRegisterScreen.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-07-27T20:22:26.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DbPasswordScreen.vb",
               "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\DbPasswordScreen.vb",
               "RelativeDocumentMoniker": "Moldels\\DbPasswordScreen.vb",
@@ -107,20 +98,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginScreen.vb",
+              "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\LoginScreen.vb",
+              "RelativeDocumentMoniker": "Moldels\\LoginScreen.vb",
+              "ToolTip": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Moldels\\LoginScreen.vb",
+              "RelativeToolTip": "Moldels\\LoginScreen.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-29T00:09:28.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "DoLogin.vb",
+              "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Helpers\\DoLogin.vb",
+              "RelativeDocumentMoniker": "Helpers\\DoLogin.vb",
+              "ToolTip": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Helpers\\DoLogin.vb",
+              "RelativeToolTip": "Helpers\\DoLogin.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-01T00:03:01.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.vb",
               "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Program.vb",
               "RelativeDocumentMoniker": "Program.vb",
               "ToolTip": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Program.vb",
               "RelativeToolTip": "Program.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-07-27T17:55:34.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SqlConnection.vb",
               "DocumentMoniker": "C:\\Users\\guimb\\Documents\\Workspace\\Matera\\GameStoreProject\\gameStore\\gameStore\\Helpers\\SqlConnection.vb",
               "RelativeDocumentMoniker": "Helpers\\SqlConnection.vb",

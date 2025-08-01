@@ -11,7 +11,7 @@ Module Program
 
 
         DbPasswordScreen.ShowScreen(conn)
-        SelectionLoginRegisterScreen.ShowScreen()
+        SelectionLoginRegisterScreen.ShowScreen(conn)
         EndProgram()
 
     End Sub

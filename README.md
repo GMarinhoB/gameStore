@@ -83,3 +83,8 @@ All of this was done with guidance from ChatGPT, proving how effective AI can be
 - Updated all user-related tables to enforce `NOT NULL` constraints.
 - Created VB module for setting screen titles.
 - Started building login and registration forms.
+
+### 2025-07-31
+- Added the Modules `DoLogin`, to call the Sql function `LoginUser`.
+- Add the logic to redirect the user based if the user was found, or it's an Adm or User.
+- Add the logic to ask the user if he wants to try to login again
